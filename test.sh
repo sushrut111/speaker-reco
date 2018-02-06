@@ -1,0 +1,9 @@
+python speaker-recognition.py -t predict -i "predict/sush1.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/sush2.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/sush3.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/man1.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/man2.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/man3.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/path1.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/path2.wav" -m pathak.out 
+python speaker-recognition.py -t predict -i "predict/path3.wav" -m pathak.out 
